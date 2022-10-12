@@ -48,7 +48,18 @@ The game eventually ended in a draw at the Final 2, after both players were tied
 
 Pictures of various ORG events are shown below. 
 
+#### Main Match 1
+
 ![MM1](./Screenshots/MM1_pic.png?raw=true "MM1")
+
+#### Main Match 6
+
 ![MM6](./Screenshots/MM6_pic.png?raw=true "MM6")
+
+#### Death Match 6
+
 ![DM6](./Screenshots/DM6_pic.png?raw=true "DM6")
+
+#### Closing
+
 ![Closing](./Screenshots/Closing.png?raw=true "Closing")
