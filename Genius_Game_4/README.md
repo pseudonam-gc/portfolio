@@ -38,8 +38,17 @@ The Main Matches were planned with the following criteria in mind:
 
 Many of the Main Matches took around a week and had deadlines every 24 hours. Death Matches were done live. 
 
-Certain Main Matches had a program specificially written for them in order to process submissions: the more notorious ones were Main Matches 2, 6, 9, and 10. I have code for Main Match 6, though I have since been unable to locate my code for the other Main Matches. 
+Certain Main Matches had a program specificially written for them in order to process submissions: the more notorious ones were Main Matches 2, 6, 9, and 10, 9 being by far the hardest (requiring four separate input files). I have code for Main Match 6, though my other programs are forever lost on a former laptop's hard drive. 
 
 The same applied to certain Death Matches; in fact, the other host specifically programmed a Discord bot to host a handful of them. I do not have access to their code. 
 
 The game eventually ended in a draw at the Final 2, after both players were tied 2-2 in Finals. One player was unable to continue because of a serious family issue, and the game unfortunately had to finish early. 
+
+### Screenshots
+
+Pictures of various ORG events are shown below. 
+
+![Alt text](/Screenshots/MM1_pic.png?raw=true "MM1")
+![Alt text](/Screenshots/MM6_pic.png?raw=true "MM6")
+![Alt text](/Screenshots/DM6_pic.png?raw=true "DM6")
+![Alt text](/Screenshots/Closing.png?raw=true "Closing")
