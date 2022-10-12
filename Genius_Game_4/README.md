@@ -48,7 +48,7 @@ The game eventually ended in a draw at the Final 2, after both players were tied
 
 Pictures of various ORG events are shown below. 
 
-![Alt text](/Screenshots/MM1_pic.png?raw=true "MM1")
-![Alt text](/Screenshots/MM6_pic.png?raw=true "MM6")
-![Alt text](/Screenshots/DM6_pic.png?raw=true "DM6")
-![Alt text](/Screenshots/Closing.png?raw=true "Closing")
+![MM1](./Screenshots/MM1_pic.png?raw=true "MM1")
+![MM6](./Screenshots/MM6_pic.png?raw=true "MM6")
+![DM6](./Screenshots/DM6_pic.png?raw=true "DM6")
+![Closing](./Screenshots/Closing.png?raw=true "Closing")
