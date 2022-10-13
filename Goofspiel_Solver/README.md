@@ -40,6 +40,8 @@ Otherwise, play a 5.
 
 Using this throughout a game will maximize the expected value of your score difference against an optimal opponent.
 
+Note that even though this is the most known efficient algorithm, this fails to run at reasonable speeds when the prize deck exceeds 7 in length. Extremely heavy computing power will be required to compute larger decks.
+
 ### Sample Output
 
 ```python3 goofspiel_solver.py
