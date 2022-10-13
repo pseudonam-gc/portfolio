@@ -22,7 +22,8 @@ I have generalized the code and added additional comments to make things more re
 
 Goofspiel for the first n integers up to n=13 has already been analyzed, and do note that my results for the initial state match up with the results on this site, confirming its validity: http://gcrhoads.byethost4.com/gops.html?i=1.
 
-Output for the 5-card case is currently in solution.txt, in the format
+Output for the 5-card case is currently in solution.txt, in the format:
+
 player cards | opponent cards | prize cards | upcard | additive probability vector
 
 The additive probability vector is an easier way to use a probabiliy vector (say, in an actual game). It also does not have to deal with funny rounding issues and can be expressed compactly. Take the following example into account (which is near the bottom of solution.txt):

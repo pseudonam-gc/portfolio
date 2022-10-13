@@ -1,6 +1,6 @@
-# Written by pseudonam
 # This program maximizes the expected value won from a Goofspiel game.
 # Algorithm modified from https://mdpi-res.com/games/games-03-00150/article_deploy/games-03-00150.pdf?version=1352361394
+# Written by pseudonam
 
 # Various imports
 

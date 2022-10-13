@@ -44,6 +44,44 @@ The same applied to certain Death Matches; in fact, the other host specifically 
 
 The game eventually ended in a draw at the Final 2, after both players were tied 2-2 in Finals. One player was unable to continue because of a serious family issue, and the game unfortunately had to finish early. 
 
+### mm6.py Sample Output
+
+```python3 mm6.py
+. . . . . . . . . . . . . . . 
+. . . 111 . . . . . . . . . . . 
+. . 111 . 011 . . . . . . 010 . . . 
+. . 111 . 011 . . . . . . 010 . . . 
+. . 111 . 011 . . . . . . 010 . . . 
+. . . 011 . . . . . . . 010 . . . 
+. . . . . . . . . . . 110 . . . 
+. . . 100 . . . . . . . 110 . . . 
+. . 100 100 000 . 101 . . . . 110 . . . 
+. . . 100 . 101 . . . . . . . . . 
+. . . . . . 000 . . . . 001 001 . . 
+. . . . . 000 101 101 . . . 001 . . . 
+. . . . . . 000 . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+
+. . . . . . . . . . . . . . . 
+. . . 111 . . . . . . . . . . . 
+. . 111 . 011 . . . . . . . . . . 
+. 111 111 . 011 011 . . . . 010 010 010 . . 
+. . 111 . 011 . . . . . 010 010 010 . . 
+. . . 011 . . . . . . 010 010 010 . . 
+. . . . . . . . . . 110 110 110 . . 
+. . 100 100 100 . . . . . 110 110 110 . . 
+. . 100 . . 101 . . . . . . . . . 
+. . 100 100 . 101 101 . . . . 001 001 . . 
+. . . . 100 . . 101 . . . 001 001 . . 
+. . . . . 000 . 101 . . . 001 001 . . 
+. . . . . 000 000 101 . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+```
+
+(The former is the initial grid; the latter is the generated grid.)
+
 ### Screenshots
 
 Pictures of various ORG events are shown below. 
@@ -63,3 +101,4 @@ Pictures of various ORG events are shown below.
 #### Closing
 
 ![Closing](./Screenshots/Closing.png?raw=true "Closing")
+
