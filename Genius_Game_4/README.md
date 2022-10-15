@@ -46,7 +46,8 @@ The game eventually ended in a draw at the Final 2, after both players were tied
 
 ### mm6.py Sample Output
 
-```python3 mm6.py
+```
+$python3 mm6.py
 . . . . . . . . . . . . . . . 
 . . . 111 . . . . . . . . . . . 
 . . 111 . 011 . . . . . . 010 . . . 

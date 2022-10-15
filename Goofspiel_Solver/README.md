@@ -10,7 +10,7 @@ In fact, every strategy loses to a player who plays n+1 every time their opponen
 
 In practice, players do not enter the game with an exact permutation of cards they wish to play, and end up trying to read their opponent and either beat them by as little as possible, or lose by as much as possible (in order to save higher card values for later). 
 
-Since every strategy has a counter, there is no simple strategy that wins the most times. But this can be represented as a matrix game -- so it is possible to maximize the expected value of the difference between your score and your opponent's score with a little bit (an exaggeration) of dynamic programming.
+Since every strategy has a counter, there is no simple strategy that wins the most times. But this can be represented as a matrix game -- so it is possible to maximize the expected value of the difference between your score and your opponent's score with a little bit (an understatement) of dynamic programming.
 
 ### The Solver
 
@@ -26,7 +26,7 @@ Output for the 5-card case is currently in solution.txt, in the format:
 
 player cards | opponent cards | prize cards | upcard | additive probability vector
 
-The additive probability vector is an easier way to use a probabiliy vector (say, in an actual game). It also does not have to deal with funny rounding issues and can be expressed compactly. Take the following example into account (which is near the bottom of solution.txt):
+The additive probability vector is an easier way to use than a probability vector (say, in an actual game). It also does not have to deal with funny rounding issues and can be expressed compactly. Take the following example into account (which is near the bottom of solution.txt):
 
 1 2 3 4 5|1 2 3 4 5|1 2 3 4 5|4|1: 12 2: 19 3: 38 4: 59 5: 100 
 
@@ -40,11 +40,12 @@ Otherwise, play a 5.
 
 Using this throughout a game will maximize the expected value of your score difference against an optimal opponent.
 
-Note that even though this is the most known efficient algorithm, this fails to run at reasonable speeds when the prize deck exceeds 7 in length. Extremely heavy computing power will be required to compute larger decks.
+Note that even though this is the most efficient algorithm (to my knowledge), this fails to run at reasonable speeds when the prize deck exceeds 7 in length. Extremely heavy computing power will be required to compute larger decks.
 
 ### Sample Output
 
-```python3 goofspiel_solver.py
+```
+$python3 goofspiel_solver.py
 Restricted license - for non-production use only - expires 2023-10-25
 1 0.00017404556274414062
 2 0.9584460258483887
