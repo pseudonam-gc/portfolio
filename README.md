@@ -10,6 +10,12 @@ Is it possible to use neural networks to solve the classical problem of distingu
 
 https://github.com/pseudonam-gc/Detecting-Human-Bias-with-NNs/tree/main
 
+### Partially Balanced Latin Rectangles
+
+An undergraduate research project at UT Dallas under the URSA program. A transcript of the final poster is located here, as well as the results of the program.
+
+https://github.com/pseudonam-gc/Partially-Balanced-Latin-Rectangles/tree/main
+
 ### Goofspiel Solver
 
 My attempt to solve the Game of Pure Strategy (which ought to be renamed Game of Pure Psychology). The implementation uses recursion, linear programming, and memoization, and is multiple times shorter (and more readable) than many other attempts to solve the game.
